@@ -1,0 +1,39 @@
+Template info:
+
+Group: jackietreehornpublishing
+Name: treehorn-spring-rest-microservice
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: jackietreehornpublishing
+Repo: treehorn-spring-rest-microservice
+Branch: master
+Path (within repo): 
+sha: c63a4f3aaeb939acdbba010f553fbff480869769
+
+
+Parameter values (passed in on template invocation):
+description='null'
+package_name='tpinternal'
+team-id='T1KHULA3E'
+name='microcourse'
+template='treehorn-spring-rest-microservice'
+user-id='U1NRFMU1K'
+group_id='treehorntest'
+org='jackietreehornpublishing'
+version='0.0.1'
+artifact_id='microcourse'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='05 07 2016 '
+configuration_class_name='MicrocourseConfiguration'
+package_path='tpinternal'
+base_source_path='src/main/java'
+base_test_path='src/test/java'
+containerless_web_integration_test_name='MicrocourseOutOfContainerIntegrationTests'
+application_name='Microcourse'
+application_class_name='MicrocourseApplication'
+startup_test_name='MicrocourseApplicationTests'
+web_integration_test_name='MicrocourseWebIntegrationTests'
+creation_date='Tue Jul 05 2016 15:02:00 GMT+0000 (UTC)'
